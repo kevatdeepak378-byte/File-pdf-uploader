@@ -1,23 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PDF Uploader • Stylish Desk</title>
-  <style>
-    :root{
-      --bg-top:#0b0b2b; --bg-mid:#1b2735; --bg-bot:#090a0f;
-      --glass: rgba(255,255,255,.08); --glass-strong: rgba(255,255,255,.12);
-      --stroke: rgba(255,255,255,.15); --text:#e6edf6; --muted:#aab6c5;
-      --accent:#8fd3ff; --danger:#ff8f8f; --ok:#7CFC90; --radius: 18px;
-      --highlight: rgba(143,211,255,0.15);
-    }
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      min-height: 100vh;
-      background: linear-gradient(to bottom, var(--bg-top), var(--bg-mid) 70%, var(--bg-bot));
-      overflow-x: hidden;
-      color: var(--text);
       font: 500 16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, "Helvetica Neue", Arial;
     }
 
